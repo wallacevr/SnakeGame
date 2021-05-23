@@ -1,2 +1,2 @@
 # SnakeGame
-Recriando Jogo da Cobrinha
+Recriando Jogo da Cobrinha :snake:
